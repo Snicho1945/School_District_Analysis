@@ -10,4 +10,10 @@ Analysis of a school district using Python, Pandas, Jupyter Notebook
   - Percentage for Average Math and Reading scores changes only by .1%
   - Percentage for Passing Math, Reading, and Overall decreases by 26% 
 - Standing compared to other schools
-  -
+  - Thomas High School went from #2 to #8 in the top school standings
+- Nothing changes in the Math and Reading scores by grade other than Thomas High 9th grade scores are nan
+- Scores by school spending mirror the Per School Summary
+- Scores by School Size, Medium(1000-2000), percentages for Passing Math, Reading, and Overall decrease by 6%
+  - All other data in the School Size DataFrame remains unchanged
+- Scores by School Type, Charter, percentages for Passing Math, Reading, and Overall decrease by 4%
+
